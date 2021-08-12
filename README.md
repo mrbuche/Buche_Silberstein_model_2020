@@ -4,7 +4,7 @@
 
 This is the Python package corresponding to: Buche, Michael R., and Meredith N. Silberstein. Statistical mechanical constitutive theory of polymer networks: The inextricable links between distribution, behavior, and ensemble. Physical Review E, 102, 012501 (2020).
 
-[![DOI:10.1103/PhysRevE.102.012501](https://mbuche.github.io/web/badges/PhysRevE.102.012501.svg)](https://doi.org/10.1103/PhysRevE.102.012501) &nbsp; [![PhysRevE.102.012501](https://mbuche.github.io/web/badges/badgePRE102012501.svg)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.012501) &nbsp; [![arXiv:2004.07874](https://mbuche.github.io/web/badges/badgearXiv200407874.svg)](https://arxiv.org/abs/2004.07874)
+[![DOI:10.1103/PhysRevE.102.012501](https://mbuche.github.io/web/badges/PhysRevE.102.012501.svg)](https://doi.org/10.1103/PhysRevE.102.012501)
 
 # Installation
 
