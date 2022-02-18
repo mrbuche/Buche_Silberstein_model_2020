@@ -1,10 +1,11 @@
 # Buche_Silberstein_model_2020
 
-[![DOI](https://mbuche.github.io/web/badges/zenodo.4783726.svg)](https://doi.org/10.5281/zenodo.4783726) &nbsp; [![GitHub release](https://mbuche.github.io/web/badges/releasev1.0.1.svg)](https://github.com/mbuche/Buche_Silberstein_model_2020/releases/) &nbsp; [![PyPI pyversions](https://mbuche.github.io/web/badges/python3.7.svg)](https://pypi.org/project/Buche-Silberstein-model-2020/) &nbsp; [![GitHub license](https://mbuche.github.io/web/badges/licenseMIT.svg)](https://github.com/mbuche/chain_breaking_polymer_networks/blob/master/LICENSE)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/Buche_Silberstein_model_2020.svg?logo=python&logoColor=FBE072)](https://pypi.org/project/Buche-Silberstein-model-2020/)
+[![pypi](https://img.shields.io/pypi/v/Buche_Silberstein_model_2020?logo=pypi&logoColor=FBE072)](https://pypi.org/project/Buche_Silberstein_model_2020/)
+[![GitHub license](https://img.shields.io/github/license/mrbuche/Buche_Silberstein_model_2020)](https://github.com/mrbuche/Buche_Silberstein_model_2020/blob/master/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4783725.svg)](https://doi.org/10.5281/zenodo.4783725)
 
-This is the Python package corresponding to: Buche, Michael R., and Meredith N. Silberstein. Statistical mechanical constitutive theory of polymer networks: The inextricable links between distribution, behavior, and ensemble. Physical Review E, 102, 012501 (2020).
-
-[![DOI:10.1103/PhysRevE.102.012501](https://mbuche.github.io/web/badges/PhysRevE.102.012501.svg)](https://doi.org/10.1103/PhysRevE.102.012501)
+This is the Python package corresponding to: Buche, Michael R., and Meredith N. Silberstein. Statistical mechanical constitutive theory of polymer networks: The inextricable links between distribution, behavior, and ensemble. [Physical Review E, 102, 012501 (2020)](https://doi.org/10.1103/PhysRevE.102.012501).
 
 # Installation
 
